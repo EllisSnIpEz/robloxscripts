@@ -1,0 +1,22 @@
+if game.PlaceId == 8737899170 then
+loadstring(game:HttpGet('https://darkscripts.space/scripts/5be596e8-fe15-4d67-a060-2ad310889ac4_805635513620103179.lua',true))()
+
+elseif game.PlaceId == 142823291 then
+loadstring(game:HttpGet('https://darkscripts.space/scripts/fd458860-2ad8-4cff-a12d-43edec793ad6_805635513620103179.lua',true))()
+
+elseif game.PlaceId == 2753915549 then
+loadstring(game:HttpGet('https://darkscripts.space/scripts/42d2a21e-672e-4a1d-ba9f-012656748067_805635513620103179.lua',true))()
+
+elseif game.PlaceId == 16732694052 then
+loadstring(game:HttpGet('https://darkscripts.space/scripts/c8612ed2-a377-4aa8-a335-5dc0eba3cdb8_805635513620103179.lua',true))()
+
+elseif game.PlaceId == 920587237 then
+loadstring(game:HttpGet('https://darkscripts.space/scripts/eaa307c5-22a4-4da2-b465-02f7a604ac33_805635513620103179.lua',true))()
+
+elseif game.PlaceId == 8737602449 then
+loadstring(game:HttpGet('https://darkscripts.space/scripts/57c6db29-3420-4a7e-96f1-a30543a7b1ca_805635513620103179.lua',true))()
+
+elseif game.PlaceId == 13772394625 then
+loadstring(game:HttpGet('https://darkscripts.space/scripts/dae1db29-4342-48ac-a32a-da174dfc0630_805635513620103179.lua',true))()
+
+end
